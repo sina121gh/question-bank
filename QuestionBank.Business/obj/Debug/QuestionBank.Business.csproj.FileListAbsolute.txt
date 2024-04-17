@@ -1,0 +1,6 @@
+E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.Business\bin\Debug\QuestionBank.Business.dll
+E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.Business\bin\Debug\QuestionBank.Business.pdb
+E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.Business\obj\Debug\QuestionBank.Business.csproj.AssemblyReference.cache
+E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.Business\obj\Debug\QuestionBank.Business.csproj.CoreCompileInputs.cache
+E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.Business\obj\Debug\QuestionBank.Business.dll
+E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.Business\obj\Debug\QuestionBank.Business.pdb
