@@ -1,6 +1,0 @@
-E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.Utility\bin\Debug\QuestionBank.Utility.dll
-E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.Utility\bin\Debug\QuestionBank.Utility.pdb
-E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.Utility\obj\Debug\QuestionBank.Utility.csproj.AssemblyReference.cache
-E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.Utility\obj\Debug\QuestionBank.Utility.csproj.CoreCompileInputs.cache
-E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.Utility\obj\Debug\QuestionBank.Utility.dll
-E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.Utility\obj\Debug\QuestionBank.Utility.pdb

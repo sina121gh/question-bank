@@ -1,6 +1,0 @@
-E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.ViewModels\bin\Debug\QuestionBank.ViewModels.dll
-E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.ViewModels\bin\Debug\QuestionBank.ViewModels.pdb
-E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.ViewModels\obj\Debug\QuestionBank.ViewModels.csproj.AssemblyReference.cache
-E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.ViewModels\obj\Debug\QuestionBank.ViewModels.csproj.CoreCompileInputs.cache
-E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.ViewModels\obj\Debug\QuestionBank.ViewModels.dll
-E:\Documents\C#\MyProjects\QuestionBank\QuestionBank.ViewModels\obj\Debug\QuestionBank.ViewModels.pdb
